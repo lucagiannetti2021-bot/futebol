@@ -1,0 +1,78 @@
+,Tipo,Valores Nulos,Valores Únicos
+photoUrl,str,0,18978
+LongName,str,0,18851
+playerUrl,str,0,18978
+Nationality,str,0,164
+Positions,str,0,640
+Name,str,0,17919
+Age,int64,0,29
+↓OVA,int64,0,47
+POT,int64,0,48
+Team & Contract,str,0,9023
+ID,int64,0,18978
+Height,str,0,21
+Weight,str,0,56
+foot,str,0,2
+BOV,int64,0,46
+BP,str,0,15
+Growth,int64,0,27
+Joined,str,0,1869
+Loan Date End,str,17966,24
+Value,str,0,214
+Wage,str,0,141
+Release Clause,str,0,1216
+Attacking,int64,0,367
+Crossing,int64,0,89
+Finishing,int64,0,93
+Heading Accuracy,int64,0,89
+Short Passing,int64,0,86
+Volleys,int64,0,88
+Skill,int64,0,393
+Dribbling,int64,0,91
+Curve,int64,0,91
+FK Accuracy,int64,0,90
+Long Passing,int64,0,86
+Ball Control,int64,0,91
+Movement,int64,0,331
+Acceleration,int64,0,85
+Sprint Speed,int64,0,84
+Agility,int64,0,81
+Reactions,int64,0,69
+Balance,int64,0,82
+Power,int64,0,288
+Shot Power,int64,0,76
+Jumping,int64,0,75
+Stamina,int64,0,85
+Strength,int64,0,77
+Long Shots,int64,0,91
+Mentality,int64,0,351
+Aggression,int64,0,88
+Interceptions,int64,0,89
+Positioning,int64,0,94
+Vision,int64,0,86
+Penalties,int64,0,87
+Composure,int64,0,85
+Defending,int64,0,247
+Marking,int64,0,92
+Standing Tackle,int64,0,87
+Sliding Tackle,int64,0,85
+Goalkeeping,int64,0,259
+GK Diving,int64,0,69
+GK Handling,int64,0,70
+GK Kicking,int64,0,79
+GK Positioning,int64,0,76
+GK Reflexes,int64,0,70
+Total Stats,int64,0,1420
+Base Stats,int64,0,250
+W/F,str,0,5
+SM,str,0,5
+A/W,str,0,3
+D/W,str,0,3
+IR,str,0,5
+PAC,int64,0,70
+SHO,int64,0,78
+PAS,int64,0,68
+DRI,int64,0,69
+DEF,int64,0,78
+PHY,int64,0,63
+Hits,str,0,374
